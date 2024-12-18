@@ -15,5 +15,3 @@ console.log('making changes');
 function commit(){
     return 'to add commint'
 }
-
-console.log('fetcher');
