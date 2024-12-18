@@ -15,3 +15,8 @@ console.log('making changes');
 function commit(){
     return 'to add commint'
 }
+
+
+function replace2() {
+    return `replace commant`
+}
