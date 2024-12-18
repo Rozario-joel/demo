@@ -12,3 +12,6 @@ funt()
 console.log('making changes');
 
 
+function commit(){
+    return 'to add commint'
+}
